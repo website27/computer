@@ -52,7 +52,7 @@ body {
 }
 
 .slider{margin:50px auto;width:500px;height:300px;overflow:hidden;position:relative}
-.photoslider{position:absolute;animation:round 16s infinite;opacity:0;width:100%}
+.sliderphoto{position:absolute;animation:round 16s infinite;opacity:0;width:100%}
 @keyframes round {
 25%{opacity:1}
 40%{opacity:0}
